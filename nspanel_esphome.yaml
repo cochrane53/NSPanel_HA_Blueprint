@@ -832,7 +832,7 @@ number:
     id: display_brightness
     entity_category: config
     unit_of_measurement: '%'
-    min_value: 1
+    min_value: 0
     max_value: 100
     step: 1
     restore_value: true
@@ -851,7 +851,7 @@ number:
     id: display_dim_brightness
     entity_category: config
     unit_of_measurement: '%'
-    min_value: 1
+    min_value: 0
     max_value: 100
     step: 1
     restore_value: true
